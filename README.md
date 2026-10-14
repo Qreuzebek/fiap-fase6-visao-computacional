@@ -11,7 +11,7 @@
 
 A FarmTech Solutions expandiu seus serviços de IA para além do agronegócio, atuando agora em saúde animal, segurança patrimonial e visão computacional. Este projeto demonstra o desenvolvimento de um sistema de visão computacional capaz de detectar e classificar objetos em imagens usando o YOLOv5.
 
-**Demo em vídeo:** [Assistir no YouTube ▶](LINK_DO_VIDEO_AQUI)
+**Demo em vídeo:** [Assistir no YouTube ▶](https://youtu.be/hNeNkmy6RSI)
 
 ---
 
